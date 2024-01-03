@@ -1,3 +1,4 @@
+{{-- @extends('dekho.base') --}}
 @extends('0_layout')
 
 @section('content')
